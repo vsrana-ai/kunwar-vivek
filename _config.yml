@@ -35,9 +35,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -132,13 +132,13 @@ author:
       url          : "https://www.researchgate.net/profile/Vivek_Kumar227"
     - label        : "Linkedin"
       icon         : "fab fa-linkedin-in"
-      url          : ""
+      url          : 
     - label        : "Github"
       icon         : "fab fa-github"
       url          : "https://github.com/vsrana-ai"
     - label        : "CV"
       icon         : "fa fa-address-card"
-      url          : ""
+      url          : 
 
 # Site Footer
 footer:
