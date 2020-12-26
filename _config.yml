@@ -130,6 +130,9 @@ author:
     - label        : "ResearchGate"
       icon         : "fab fa-researchgate"
       url          : "https://www.researchgate.net/profile/Vivek_Kumar227"
+    - label        : "Publons"
+      icon         : "fas fa-graduation-cap"
+      url          : "https://publons.com/researcher/1799316/vivek-kumar/"
     - label        : "Linkedin"
       icon         : "fab fa-linkedin-in"
       url          : 
@@ -139,6 +142,7 @@ author:
     - label        : "CV"
       icon         : "fa fa-address-card"
       url          : 
+      
 
 # Site Footer
 footer:
