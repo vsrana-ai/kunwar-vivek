@@ -12,7 +12,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Vivek Kumar Singh | PhD"
+title                    : "Vivek Kumar Singh | PhD*"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vivek Kumar Singh "
@@ -35,9 +35,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : "light" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -112,30 +112,33 @@ author:
     - label        : "Gmail"
       icon         : "fab fa-google"
       url          : "mailto:vivekkumar0416@gmail.com"
-    - label        : "Working Email"
+    - label        : "UniCa Email"
       icon         : "fas fa-envelope"
       url          : "mailto:vivek.kumar@unica.it"
+    - label        : "Phiilps Email"
+      icon         : "fas fa-envelope"
+      url          : "mailto:vivek.kumar_1@philips.com"
     - label        : "Google Scholar"
       icon         : "fas fa-graduation-cap"
       url          : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
     - label        : "Scopus"
       icon         : "fas fa-graduation-cap"
-      url          : "https://www.scopus.com/authid/detail.uri?authorId=57192682012"
+      url          : "https://www.scopus.com/authid/detail.uri?authorId=57203288774"
     - label        : "DBLP"
       icon         : "fas fa-graduation-cap"
-      url          : "https://dblp.uni-trier.de/pers/hd/d/Dess=igrave=:Danilo"
+      url          : "hhttps://dblp.org/pid/82/2381-7.html"
     - label        : "ResearchGate"
       icon         : "fab fa-researchgate"
-      url          : "https://www.researchgate.net/profile/Danilo_Dessi"
+      url          : "https://www.researchgate.net/profile/Vivek_Kumar227"
     - label        : "Linkedin"
       icon         : "fab fa-linkedin-in"
-      url          : "https://it.linkedin.com/in/danilo-dess%C3%AC-07946b131"
+      url          : ""
     - label        : "Github"
       icon         : "fab fa-github"
-      url          : "https://github.com/danilo-dessi"
+      url          : "https://github.com/vsrana-ai"
     - label        : "CV"
       icon         : "fa fa-address-card"
-      url          : "https://drive.google.com/file/d/1OmLdUfhzFYkk95qNJx_gJW5Bs1j0wTbG/view?usp=sharing"
+      url          : ""
 
 # Site Footer
 footer:
