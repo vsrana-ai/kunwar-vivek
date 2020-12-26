@@ -116,7 +116,7 @@ author:
       icon         : "fab fa-university"
       url          : "mailto:vivek.kumar@unica.it"
     - label        : "Email-Phiilps"
-      icon         : "fas fa-at" #"fas fa-envelope" #"fas fa-at"
+      icon         : "fas fa-envelope" #"fas fa-at"
       url          : "mailto:vivek.kumar_1@philips.com"
     - label        : "Google Scholar"
       icon         : "fas fa-graduation-cap" .
