@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Vivek Kumar Singh"
-  avatar           : "vivek1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/vivek1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Italy"
   email            :
