@@ -119,7 +119,7 @@ author:
       icon         : "fab fa-philips" #"fas fa-envelope"
       url          : "mailto:vivek.kumar_1@philips.com"
     - label        : "Google Scholar"
-      icon         : "fas fa-graduation-cap"
+      icon         : "fas fa-graduation-cap text-red" 
       url          : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
     - label        : "Scopus"
       icon         : "fas fa-graduation-cap"
