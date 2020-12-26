@@ -113,7 +113,7 @@ author:
       icon         : "fab fa-google"
       url          : "mailto:vivekkumar0416@gmail.com"
     - label        : "Email-UniCa"
-      icon         : "fas fa-at".  #"fas fa-university"
+      icon         : "fas fa-at"  #"fas fa-university"
       url          : "mailto:vivek.kumar@unica.it"
     - label        : "Email-Phiilps"
       icon         : "fas fa-at" #"fas fa-envelope" #
