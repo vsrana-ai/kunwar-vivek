@@ -116,10 +116,11 @@ author:
       icon         : "fab fa-university"
       url          : "mailto:vivek.kumar@unica.it"
     - label        : "Email-Phiilps"
-      icon         : "fas fa-envelope" #"fas fa-at"
+      icon         : "fas fa-at" #"fas fa-envelope" #
+      color        : "red"
       url          : "mailto:vivek.kumar_1@philips.com"
     - label        : "Google Scholar"
-      icon         : "fas fa-graduation-cap" .
+      icon         : "fas fa-graduation-cap"
       url          : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
     - label        : "Scopus"
       icon         : "fas fa-graduation-cap"
