@@ -106,13 +106,13 @@ author:
   name             : "Vivek Kumar Singh"
   avatar           : "/assets/images/vivek1.png"
   bio              : "Marie Sklodowska-Curie Researcher"
-  location         : "Cagliari (Italy)"
+  location         : "Cagliari (IT)"
   email            :
   links            : 
     - label        : "Gmail"
       icon         : "fab fa-google"
       url          : "mailto:vivekkumar0416@gmail.com"
-    - label        : "Working Email"
+    - label        : "Email-UniCa"
       icon         : "fas fa-envelope"
       url          : "mailto:vivek.kumar@unica.it"
     - label        : "Email-Phiilps"
